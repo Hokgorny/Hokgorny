@@ -5,6 +5,7 @@
 ![Hokgorny's github stats](https://github-readme-stats.vercel.app/api?username=Hokgorny&show_icons=true&theme=radical)
   
 <div align=center><h1>⚡️ Language ⚡️</h1></div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hokgorny&layout=compact&theme=dracula)](https://github.com/metleeha)
   
 <hr>
