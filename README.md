@@ -30,7 +30,7 @@
   
 <a href="https://hokgorny.ga/">
   <img
-    src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://hokgorny.ga/"
+    src="http://img.shields.io/badge/-20Blog-655ced?style=flat&logo=github&link=https://hokgorny.ga/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
 
