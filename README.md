@@ -8,6 +8,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hokgorny&layout=compact&theme=dracula)](https://github.com/metleeha)
   
+<div align=center><h1>🏅 Baekjoon solved rank 🏅</h1></div>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=123kbg)](https://solved.ac/123kbg)  
+  
 <hr>
   
 [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHokgorny&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
