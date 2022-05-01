@@ -26,12 +26,6 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=123kbg)](https://solved.ac/123kbg)  
   
-<hr>
-  
-[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHokgorny&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-![followers](https://img.shields.io/github/followers/Hokgorny?style=social)
-  
 <div align=center><h1>🔗 Link 🔗</h1></div>
   
 <a href="https://hokgorny.ga/">
@@ -45,5 +39,11 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:123kbg@naver.com"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+  
+<hr>
+  
+[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHokgorny&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+![followers](https://img.shields.io/github/followers/Hokgorny?style=social)
   
 </div>
