@@ -32,6 +32,7 @@
   
 ![followers](https://img.shields.io/github/followers/Hokgorny?style=social)
   
+<div align=center><h1>🔗 Link 🔗</h1></div>
   
 <a href="https://hokgorny.ga/">
   <img
