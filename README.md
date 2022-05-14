@@ -4,7 +4,7 @@
   
   ![Hokgorny's github stats](https://github-readme-stats.vercel.app/api?username=Hokgorny&show_icons=true&theme=radical)
 
-  [![LSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=123kbg)](https://solved.ac/profile/123kbg)
+  [![hyp3rflow's solved.ac stats](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=123kbg)](https://solved.ac/profile/123kbg)
   <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=123kbg)](https://solved.ac/123kbg)-->  
   
 </div>
